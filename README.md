@@ -33,7 +33,7 @@
 <hr/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pinkblau&label=VISITORS&color=red&style=for-the-badge" alt="Profile visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=pinkbblau&label=VISITORS&color=red&style=for-the-badge" alt="Profile visitors"/>
 </p>
 
 </div>
