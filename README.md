@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm pinkblau
-
+pinkbblau@proton.me
 <hr/>
 
 ### Tech Stack
